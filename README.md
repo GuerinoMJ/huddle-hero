@@ -29,6 +29,7 @@ Eu queria mudar a cor da borda no `:hover`, tipo assim:
 ```css
 :hover {
   color: var(--cor-do-button);
+  border: 1px solid var(--cor-do-botton);
 }
 ```
 
