@@ -1,0 +1,7 @@
+:root {
+    --cor-do-fundo: hsl(257, 40%, 49%);
+    --cor-do-botton: hsl(300, 69%, 71%);
+    --font-paragrefo: "Open Sans", sans-serif;
+    --font-titulo: "Poppins", sans-serif;
+    --height: 100vh;
+}
